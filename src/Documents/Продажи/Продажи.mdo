@@ -23,8 +23,18 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.Продажи.Form.ФормаДокумента</defaultObjectForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <forms uuid="a7d442ec-7711-4918-a81b-44683d08fa82">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма документа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <tabularSections uuid="36fb58c4-80b7-491d-aad9-498133ee9965">
     <producedTypes>
       <objectType typeId="2cc1ce6d-78a7-4b0f-95b3-af74d356c032" valueTypeId="06d34ca3-0b39-4441-883b-7501ee32f4da"/>
